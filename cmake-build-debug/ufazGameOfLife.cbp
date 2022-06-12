@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ufazGameOfLife"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\console\;CMake Files\game\;CMake Files\sdl2_print\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\SDL2\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cover_html">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 cover_html"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libtest">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/libtest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 libtest"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libtest/fast">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/libtest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 libtest/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cover">
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 cover"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ufazGameOfLife">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/ufazGameOfLife" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/console"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print/../game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 ufazGameOfLife"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ufazGameOfLife/fast">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/ufazGameOfLife" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/console"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print/../game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 ufazGameOfLife/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="game">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/libgame.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 game"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="game/fast">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/libgame.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 game/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/game/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="console">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/libconsole.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/console"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 console"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="console/fast">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/libconsole.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/console"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 console/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/console/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sdl2_print">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/libsdl2_print.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/SDL2"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print/../game"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 sdl2_print"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sdl2_print/fast">
+				<Option output="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/libsdl2_print.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include/SDL2"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print/../game"/>
+					<Add directory="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 sdl2_print/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/cmake-build-debug/sdl2_print/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/console/print_to_console.c">
+			<Option target="ufazGameOfLife"/>
+			<Option target="console"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/console/print_to_console.h">
+			<Option target="ufazGameOfLife"/>
+			<Option target="console"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game/game.c">
+			<Option target="libtest"/>
+			<Option target="ufazGameOfLife"/>
+			<Option target="game"/>
+			<Option target="sdl2_print"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game/game.h">
+			<Option target="libtest"/>
+			<Option target="ufazGameOfLife"/>
+			<Option target="game"/>
+			<Option target="sdl2_print"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game_test.c">
+			<Option target="libtest"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/main.c">
+			<Option target="ufazGameOfLife"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print/print_to_sdl.c">
+			<Option target="ufazGameOfLife"/>
+			<Option target="sdl2_print"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print/print_to_sdl.h">
+			<Option target="ufazGameOfLife"/>
+			<Option target="sdl2_print"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/console/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\console\"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\game\"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/sdl2_print/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\sdl2_print\"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/../../../../usr/local/lib/cmake/SDL2/sdl2-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SDL2\"/>
+		</Unit>
+		<Unit filename="/Users/risadakhundov/Downloads/GameOfLife_Surkhay_Rishad/../../../../usr/local/lib/cmake/SDL2/sdl2-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SDL2\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
